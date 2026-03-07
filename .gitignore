@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+
+# Node
+node_modules/
+
+# Mac
+.DS_Store
+
+# Output files
+*.csv
