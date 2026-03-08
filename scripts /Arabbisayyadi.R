@@ -1,1 +1,1 @@
-cat("Arabbisayyadi,arabbisayyadi@email.com,@arabbisayyadi,Transcriptomics\n")
+cat("Arabbisayyadi, sayyadiarabbi@gmail.com,@arabbisayyadi,Transcriptomics\n")
