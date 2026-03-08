@@ -1,6 +1,6 @@
-Name,Email,Slack Username,Area of Interest
-Michael,edachemichael50@gmail.com,@MichaelScienceHub,Genomics
-Fatima,fatima@email.com,@fatima,Proteomics
-Arabbisayyadi,arabbi@email.com,@arabbi,Transcriptomics
-Mubarak,mubarak@email.com,@mubarak,Computational Biology
-Aliyu,aliyu@email.com,@aliyu,Gene Ontology
+Name,Email,Slack Username,Area of Interest,Programming Language
+Michael,edachemichael50@gmail.com,@MichaelScienceHub,Genomics,Python
+Fatima,fatima@email.com,@fatima,Proteomics,Java
+Arabbisayyadi,arabbi@email.com,@arabbi,Transcriptomics,R
+Mubarak,mubarak@email.com,@mubarak,Computational Biology,Perl
+Aliyu,aliyu@email.com,@aliyu,Gene Ontology,Go
