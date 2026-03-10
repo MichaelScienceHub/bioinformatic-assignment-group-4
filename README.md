@@ -115,10 +115,10 @@ The final output of the workflow is a CSV file containing structured information
 
 Example output format:Name,Email,Slack Username,Area of Interest
 Michael,edachemichael50@gmail.com,@michael,Genomics
-Fatima,fatima@email.com,@fatima,Proteomics
-Arabbisayyadi,arabbi@email.com,@arabbi,Transcriptomics
-Mubarak,mubarak@email.com,@mubarak,Computational Biology
-Aliyu,aliyu@email.com,@aliyu,Gene Ontology
+Fatima,beentyahmad@gmail.com,@fatima,Proteomics
+Arabbisayyadi,sayyadiarabbi@gmail.com,@arabbi,Transcriptomics
+Mubarak,azaremamubarak@gmail.com,@mubarak,Computational Biology
+Aliyu,aisyaku056@gmail.com,@aliyu,Gene Ontology
 
 
 ## Authors
