@@ -76,7 +76,15 @@ Each group member implemented their contribution using a different programming l
 | Arabbisayyadi | R |
 | Mubarak | Perl |
 | Aliyu | Go |
+## Group Members Matriculation Numbers
 
+| S/N | Matric Number |
+|----|---------------|
+| 1 | BASUG/UG/BMS/ANA/22/7999 |
+| 2 | BASUG/UG/BMS/ANA/22/3869 |
+| 3 | BASUG/UG/BMS/ANA/22/5311 |
+| 4 | BASUG/UG/BMS/ANA/22/4291 |
+| 5 | BASUG/UG/BMS/ANA/22/6702 |
 ---
 
 ## VIII. Repository Structurebioinformatic-assignment-group-4
